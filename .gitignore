@@ -131,3 +131,6 @@ dist
 
 # Prisma
 dev.db
+
+# TSC
+dist
